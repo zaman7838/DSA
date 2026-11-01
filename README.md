@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/zaman7838/DSA/tree/master/0131-palindrome-partitioning) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/zaman7838/DSA/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/zaman7838/DSA/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
