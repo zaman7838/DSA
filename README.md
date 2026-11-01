@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/zaman7838/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/zaman7838/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/zaman7838/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/zaman7838/DSA/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zaman7838/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0131-palindrome-partitioning](https://github.com/zaman7838/DSA/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/zaman7838/DSA/tree/master/0037-sudoku-solver) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/zaman7838/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
